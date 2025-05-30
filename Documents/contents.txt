@@ -1,0 +1,7 @@
+Our dataset contains the following fields:
+
+• Figure Filename
+• Figure Caption
+• Paper Abstract
+• Paper Title
+• PDF URL
